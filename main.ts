@@ -30,7 +30,7 @@ scene.onOverlapTile(SpriteKind.Player, sprites.castle.tileGrass2, function (spri
     game.splash("Go back and try again!")
 })
 let mySprite: Sprite = null
-game.splash("Goooood Luck you all...")
+game.splash("Good Luck you all...")
 mySprite = sprites.create(img`
     . . . . . . f f f f f f . . . . 
     . . . . f f e e e e f 2 f . . . 
